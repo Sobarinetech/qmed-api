@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide",
 )
 
-API_URL = "https://sqwevzxsufrbsyjrucuw.supabase.co/functions/v1/verify-prescription-api"
+API_URL = "https://rcbonfsszfmpiacinysg.supabase.co/functions/v1/verify-prescription-api"
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
